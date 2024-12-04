@@ -98,3 +98,7 @@ $ vi practice_file_1.txt
 # 21. `practice_file1.txt`に書き込んだ内容を出力してください。
 $ cat practice_file1.txt
 
+# カリキュラム名
+様々なLinuxコマンド
+# やったこと/レビュー観点
+Linuxコマンドでのファイル操作
