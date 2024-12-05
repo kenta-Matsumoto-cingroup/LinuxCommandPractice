@@ -40,7 +40,7 @@ $ git push -u origin main
 
 
 # 7. `LinuxCommandPractice`ディレクトリに`.git`ディレクトリが表示されていることを確認してください。
-
+$ ls -a
 
 # 8. `LinuxCommandPractice`ディレクトリ内に`practice_dir_1`ディレクトリを作成してください。
 $ mkdir practice_dir_1
